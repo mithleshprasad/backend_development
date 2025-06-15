@@ -76,13 +76,7 @@ Follow the prompts to:
    kill -9 <PID>  # Replace <PID> with process ID
    ```
 
-2. **Module errors**:
-   ```bash
-   npm uninstall chalk
-   npm install chalk@4
-   ```
-
-3. **Connection issues**:
+2. **Connection issues**:
    - Verify server is running
    - Check firewall settings
    - Use correct IP address for remote connections
