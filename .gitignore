@@ -1,0 +1,58 @@
+# Node.js gitignore
+node_modules/
+npm-debug.log
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Build directories
+dist/
+build/
+
+# Log files
+*.log
+logs/
+
+# System Files
+Thumbs.db
+
+# Client-side cache
+.cache/
+
+# Package lock
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.temp
+
+# Debug files
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory
+coverage/
+
+# OS generated files
+ehthumbs.db
+Icon?
+._*
+.Spotlight-V100
+.Trashes
